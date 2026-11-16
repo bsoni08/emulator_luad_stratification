@@ -1,0 +1,8 @@
+data/*
+!data/README.md
+*.csv
+*.csv.gz
+*.rds
+*.h5ad
+__pycache__/
+.ipynb_checkpoints/
